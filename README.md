@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sgc109/)](https://www.linkedin.com/in/sgc109/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sgc109.github.io/)](https://sgc109.github.io/)	
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgc109109@gmail.com)](mailto:sgc109109@gmail.com)
+
 [![Sungho's github stats](https://github-readme-stats.vercel.app/api?username=sgc109)](https://github.com/sgc109/github-readme-stats)
 
 <!--
