@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Sungho's github stats](https://github-readme-stats.vercel.app/api?username=sgc109)](https://github.com/sgc109/github-readme-stats)
+
 <!--
 **sgc109/sgc109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
