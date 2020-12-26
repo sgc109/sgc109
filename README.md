@@ -1,3 +1,8 @@
+## Sungho Hwang
+* Working as a **Back-end Engineer**
+* Mainly using **Scala, Java, Python**
+* Interested in FP, MSA, Cloud Native, Distributed System, ...
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sgc109/)](https://www.linkedin.com/in/sgc109/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sgc109.github.io/)](https://sgc109.github.io/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgc109109@gmail.com)](mailto:sgc109109@gmail.com)
