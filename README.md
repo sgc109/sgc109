@@ -1,4 +1,5 @@
-## 👨🏻‍💻 Sungho Hwang 🇰🇷
+## 🇰🇷 👨🏻‍💻 Sungho Hwang <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="25px">
+
 * Working as a **Back-end Engineer**
 * Mainly using **Scala, Java, Python**
 * Interested in FP, MSA, Cloud Native, Distributed System, ...
