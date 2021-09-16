@@ -11,6 +11,9 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sgc109)](https://solved.ac/sgc109)
 
 [![Sungho's github stats](https://github-readme-stats.vercel.app/api?username=sgc109)](https://github.com/sgc109/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgc109)](https://solved.ac/sgc109)
 **sgc109/sgc109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
