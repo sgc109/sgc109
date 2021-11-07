@@ -12,13 +12,10 @@
 * Working as a **Back-end Engineer**
 * Mainly using **Kotlin**, Scala, Python
 
-💼 Experience
 
-* NAVER Clova - Software Engineer  |  Jun. 2020 ~ May. 2021  
-  * Software Engineer
-
-* Samsung Research - Software Engineer  |  Jan. 2019 ~ Apr. 2020  
-  * Software Engineer
+### 💼 Experience
+- **NAVER Clova** - Software Engineer *(Jun 2020 ~ May 2021)*
+- **Samsung Research** - Software Engineer *(Jan 2019 - Apr 2020)*
 
 <br/>
 
