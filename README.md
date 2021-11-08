@@ -16,7 +16,7 @@
 
 
 * Working as a **Back-end Engineer**
-* Mainly using **Kotlin**, Scala, Python
+* Mainly using **Kotlin**, Java, Python
 
 
 ### 💼 Experience
