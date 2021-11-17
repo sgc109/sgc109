@@ -23,6 +23,10 @@
 - **NAVER Clova** - Software Engineer *(Jun 2020 ~ May 2021)*
 - **Samsung Research** - Software Engineer *(Jan 2019 ~ Apr 2020)*
 
+
+### :octocat: Contributions
+- **Debezium** - [DBZ-3528](https://github.com/debezium/debezium/pull/2877)
+
 <br/>
 
 [![Sungho's github stats](https://github-readme-stats.vercel.app/api?username=sgc109)](https://github.com/sgc109/github-readme-stats)
