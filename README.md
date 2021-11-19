@@ -25,7 +25,7 @@
 
 
 ### :octocat: Contributions
-- **Debezium** - [DBZ-3528](https://github.com/debezium/debezium/pull/2877)
+- **Debezium** - [DBZ-3528 Support for MongoDB Outbox Event Router SMT](https://github.com/debezium/debezium/pull/2877)
 
 <br/>
 
