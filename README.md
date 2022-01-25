@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&text=Sungho%20Hwang&fontAlign=25&fontAlignY=30&height=150&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&text=Sungho%20Hwang&fontAlign=25&fontAlignY=32&height=150&fontSize=50&fontColor=ffffff)
 
 <!--
 <div align="right">
