@@ -18,12 +18,12 @@
 <!-- [![sgc109's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sgc109)](https://solved.ac/sgc109) -->
 
 
-* Working as a **Back-end Engineer**
+* Working as a **Backend Engineer**
 * Mainly using **Kotlin**, Java, Python
 
 
 ### 💼 Experience
-- **NAVER Clova** - Software Engineer *(Jun 2020 ~ May 2021)*
+- **NAVER Clova** - Backend Engineer *(Jun 2020 ~ May 2021)*
 - **Samsung Research** - Software Engineer *(Jan 2019 ~ Apr 2020)*
 
 
