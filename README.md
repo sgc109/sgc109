@@ -22,10 +22,11 @@
 * Mainly using **Kotlin**, Java, Python
 
 
+<!--
 ### 💼 Experience
 - **NAVER Clova** - Backend Engineer *(Jun 2020 ~ May 2021)*
 - **Samsung Research** - Software Engineer *(Jan 2019 ~ Apr 2020)*
-
+-->
 
 ### :octocat: Contributions
 - **Debezium** 
