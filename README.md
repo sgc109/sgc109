@@ -18,8 +18,8 @@
 <!-- [![sgc109's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sgc109)](https://solved.ac/sgc109) -->
 
 
-* Working as a **Backend Engineer**
-* Mainly using **Kotlin**, Java, Python
+* Software Engineer
+* Python, C++, Javascript, Kotlin, Java
 
 
 <!--
